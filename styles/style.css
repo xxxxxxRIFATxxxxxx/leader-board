@@ -1,0 +1,35 @@
+/* Common CSS */
+body {
+    background-color: #F3F1FF;
+}
+
+/* Navbar CSS */
+.navbar img {
+    width: 40px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem; 
+    padding-left: 1rem;
+}
+
+/* Top Section CSS */
+.top-section .card {
+    border: none;
+    border-radius: 5px;
+}
+
+/* Top Player CSS */
+.top-player img {
+    width: 100px;
+}
+
+/* Top Blog CSS */
+.top-blog img {
+    width: 160px;
+}
+
+/* Latest Course CSS */
+.latest-course {
+    
+}
