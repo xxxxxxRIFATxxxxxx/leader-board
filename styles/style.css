@@ -30,6 +30,34 @@ body {
 }
 
 /* Latest Course CSS */
-.latest-course {
-    
+.latest-course .card {
+    border: none;
+    border-radius: 5px;
+}
+
+.latest-course img {
+    width: 300px;
+}
+
+.latest-course .courses .card {
+    border-radius: 20px;
+}
+
+.latest-course .star-icon img {
+    margin: 0 2px;
+    height: 11px;
+    width: 12px;
+}
+
+.pink-bg {
+    background-color: #FFE4E8;
+}
+
+.latest-course .clock-icon img {
+    width: 20px;
+}
+
+.latest-course .clock-icon {
+    width: fit-content;
+    padding: 2px 8px 2px 5px;
 }
